@@ -3,7 +3,7 @@
 # https://www.apache.org/licenses/LICENSE-2.0.html
 
 # ReadMe
-README = 'Common Library for PyTorch\nAuthor: M. Akaishi'
+README = 'Common Library for PyTorch'
 
 import numpy as np
 import matplotlib.pyplot as plt
